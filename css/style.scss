@@ -431,3 +431,17 @@ pre {
     .highlight .vg { color: #000000 } /* Name.Variable.Global */
     .highlight .vi { color: #000000 } /* Name.Variable.Instance */
     .highlight .il { color: #0000cf; font-weight: bold } /* Literal.Number.Integer.Long */
+
+/*--------------------------------------------------------------
+  7.0 Custom styles
+  --------------------------------------------------------------*/
+
+  .full-height {
+    height: 100vh;
+  }
+
+  // smooth scrolling to portfolio
+
+ html {
+   scroll-behavior: smooth; // only works on chrome 61.0, Firefox 36.0, and opera 48.0, need to create a work around for older browsers.
+ }
