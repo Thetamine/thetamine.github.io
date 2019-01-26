@@ -7,11 +7,10 @@ categories: development
 tags: php api JSON 
 featured_image: '/img/posts/OpenWeather.png'
 
-codebase_link: ''
-codebase_icon: ''
-codebase_text: ''
+codebase_link: 'https//github.com/thetamine/openweather'
+codebase_text: 'Visit Codebase'
 
-project_link: 'http://github.com/thetamine/OpenWeather.png'
+project_link: 'https://openweatherportfolio.000webhostapp.com/'
 button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: 'a simple weather app that fetches weather information for your local area.'
