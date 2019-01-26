@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Open Weather'
 date: 2018-10-1 20:00
 categories: development
