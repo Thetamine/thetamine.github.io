@@ -33,7 +33,13 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #e9edf0;
+  background: #f1f2f2;
+  background-image: url(./../img/posts/shelby-portfolio-background-image.jpg);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  background-size: 627px;
+  background-repeat: no-repeat;
+  background-position: 100% bottom;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -439,6 +445,14 @@ pre {
   .full-height {
     height: 100vh;
   }
+
+  #phrase {
+    font-size: 1.1em;
+    &[data-words="web"] {
+      color: red;
+
+    }
+  } 
 
   // smooth scrolling to portfolio
 
