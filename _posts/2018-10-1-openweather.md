@@ -5,7 +5,7 @@ title: 'Open Weather'
 date: 2018-10-1 20:00
 categories: development
 tags: php api JSON 
-featured_image: '/img/posts/openWeather.png'
+featured_image: '/img/posts/OpenWeather.png'
 
 codebase_link: ''
 codebase_icon: ''
