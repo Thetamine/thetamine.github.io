@@ -11,7 +11,7 @@ codebase_link: ''
 codebase_icon: ''
 codebase_text: ''
 
-project_link: 'http://github.com/thetamine/openweather.png'
+project_link: 'http://github.com/thetamine/OpenWeather.png'
 button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: 'a simple weather app that fetches weather information for your local area.'
