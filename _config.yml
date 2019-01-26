@@ -17,7 +17,7 @@ title: "Hello. I'm Shelby Russ."
 email: 'sruss0911@gmail.com'
 description: "I'm a software developer from Alabama making useful things for the <span id='phrase'>web</span>."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://thetamine.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thetamine.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'thetamine'
 github_username: 'thetamine'
 medium_username: ''
